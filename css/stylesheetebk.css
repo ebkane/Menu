@@ -1,4 +1,9 @@
 body {
-  background-color: navy;
+  background-color: rgb(0,0,48);
   font-family: Rockwell, Optima, sans-serif;
+  font-color: white
+}
+
+.container {
+  background-color: rgb(0,0,24);
 }
