@@ -21,7 +21,7 @@ p {
   color: white;
 }
 
-.btn-group {
+.btn-group.top .btn-default {
   background-color: black
   color: white;
 }
