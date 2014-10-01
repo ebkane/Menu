@@ -1,5 +1,5 @@
 body {
-  background-color: #999;
+  background-color: #DDD;
   font-family: Optima, Rockwell, sans-serif;
 }
 
@@ -21,7 +21,7 @@ p {
   color: white;
 }
 
-.btn-group button {
+.btn-group {
   background-color: black
   color: white;
 }
