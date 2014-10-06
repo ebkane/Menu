@@ -55,12 +55,24 @@ a:visited {
 }
 
 .btn-group.top .btn-default {
+  float: top;
+  background-color: #000;
+  color: #fff;
+}
+
+.btn-group.right .btn-default {
+  float: right;
   background-color: #000;
   color: #fff;
 }
 
 .btn-group.top .btn-default:hover {
-  background-color: #fff;
+  background-color: #eee;
+  color: #000;
+}
+
+.btn-group.right .btn-default:hover {
+  background-color: #eee;
   color: #000;
 }
 
