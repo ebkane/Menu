@@ -1,6 +1,7 @@
 body {
   background-color: #C86000;
   font-family: Optima, Rockwell, sans-serif;
+  color: 000;
 }
 
 .jumbotron {
@@ -23,6 +24,7 @@ p {
 
 .tiny {
   font-size: 8pt;
+  color: #000;
 }
 
 a {
@@ -42,6 +44,7 @@ a:visited {
     border-bottom: 2px solid #FFC070;
     border-left: 0px;
     border-right: 0px;
+    color: #EEE;
 }
 
 .btn-group.top .btn-default {
