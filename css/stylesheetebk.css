@@ -1,7 +1,6 @@
 body {
   background-color: #C86000;
   font-family: Optima, Rockwell, sans-serif;
-  color: 000;
 }
 
 .jumbotron {
@@ -20,6 +19,10 @@ h1 h2 {
 
 p {
   color: #000;
+}
+
+span {
+  color: #FFF;
 }
 
 .tiny {
