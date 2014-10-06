@@ -21,6 +21,10 @@ p {
   color: #000;
 }
 
+p.tiny {
+  font-size: 8pt;
+}
+
 a {
   color: #FFC070;
 }
