@@ -54,13 +54,13 @@ a:visited {
     color: #EEE;
 }
 
-.btn-group.top .btn-default {
-  float: top;
+.navbar navbar-default navbar-fixed-top .btn-group.top .btn-default {
+  float: left;
   background-color: #000;
   color: #fff;
 }
 
-.btn-group.right .btn-default {
+.navbar navbar-default navbar-fixed-top .btn-group.right .btn-default {
   float: right;
   background-color: #000;
   color: #fff;
