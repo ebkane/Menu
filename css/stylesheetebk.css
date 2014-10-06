@@ -24,6 +24,8 @@ p {
 .middle-bit {
     border-top: 2px solid orange;
     border-bottom: 2px solid orange;
+    border-left: 0px;
+    border-right: 0px;
 }
 
 .btn-group.top .btn-default {
