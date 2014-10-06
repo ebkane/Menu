@@ -22,7 +22,7 @@ p {
 }
 
 a {
-  color: white;
+  color: #FFC070;
 }
 
 a:hover {
@@ -30,7 +30,7 @@ a:hover {
 }
 
 a:visited {
-  color: white;
+  color: #FFC070;
 }
 
 .middle-bit {
