@@ -54,28 +54,6 @@ a:visited {
     color: #EEE;
 }
 
-.navbar navbar-default navbar-fixed-top .btn-group.top .btn-default {
-  float: left;
-  background-color: #000;
-  color: #fff;
-}
-
-.navbar navbar-default navbar-fixed-top .btn-group.right .btn-default {
-  float: right;
-  background-color: #000;
-  color: #fff;
-}
-
-.btn-group.top .btn-default:hover {
-  background-color: #eee;
-  color: #000;
-}
-
-.btn-group.right .btn-default:hover {
-  background-color: #eee;
-  color: #000;
-}
-
 .page-header {
   color: white;
   margin-top: 0px;
