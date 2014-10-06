@@ -22,7 +22,7 @@ p {
 }
 
 .middle-bit {
-    border-top: 2px solid orange;
+    border-top: 2px solid #FFC070;
     border-bottom: 2px solid #FFC070;
     border-left: 0px;
     border-right: 0px;
