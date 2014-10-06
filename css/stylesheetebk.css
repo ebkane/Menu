@@ -21,6 +21,18 @@ p {
   color: #555;
 }
 
+a {
+  color: white;
+}
+
+a:hover {
+  color: #FFC070;
+}
+
+a:visited {
+  color: white;
+}
+
 .middle-bit {
     border-top: 2px solid #FFC070;
     border-bottom: 2px solid #FFC070;
