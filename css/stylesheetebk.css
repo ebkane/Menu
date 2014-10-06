@@ -65,7 +65,8 @@ a:visited {
 
 .navbar-default {
   background-color: #C86000;
-  color: white;
+  color: 000;
+  border-color: #C86000;
 }
 
 .navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:focus {
