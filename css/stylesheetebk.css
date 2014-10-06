@@ -49,3 +49,10 @@ a:visited {
   background-color: #fff;
   color: #000;
 }
+
+.page-header {
+  margin-top: 0px;
+  margin-bottom: 500px;
+  margin-right: 50px;
+  margin-left: 50px;
+}
