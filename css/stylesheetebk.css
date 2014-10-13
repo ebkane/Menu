@@ -89,14 +89,14 @@ a:visited {
   border-bottom: 0px;
   border-right: 0px;
   border-left: 0px;
-  width: 85%;
+  width: 100%;
   padding: 0px;
 }
 
 .menu {
   background-color: #FFC070;
   margin-right: 100px;
-  margin-left: 100px;
+  margin-left: 50px;
   padding-right: 100px;
   padding-left: 100px;
   width: 100%;
