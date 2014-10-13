@@ -62,7 +62,7 @@ a:visited {
   margin-left: 50px;
   margin-right: 100px;
   border-bottom: 2px solid #FFC070;
-  width: 100%;
+  width: 85%;
 }
 
 .navbar-default {
@@ -99,7 +99,7 @@ a:visited {
   margin-left: 50px;
   padding-right: 100px;
   padding-left: 100px;
-  width: 100%;
+  width: 85%;
 }
 
 .nav navbar-nav navbar-right {
