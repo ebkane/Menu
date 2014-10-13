@@ -98,3 +98,9 @@ a:visited {
   margin-left: 100px;
   width: 86%;
 }
+
+.nav navbar-nav navbar-right {
+  margin-right: 20px;
+  margin-left: 20px;
+  width: 100%;
+}
