@@ -104,7 +104,7 @@ a:visited {
   margin-left: 20px;
 }
 
-@media all and (min-width: 80px) {
+@media all and (max-width: 80px) {
   .visible-xs, .visible-sm {
     width: 100%;
   }
