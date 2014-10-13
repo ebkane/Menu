@@ -103,3 +103,9 @@ a:visited {
   margin-right: 20px;
   margin-left: 20px;
 }
+
+@grid-float-breakpoint {
+  .visible-xs, .visible-sm {
+    min-width: 0px;
+  }
+}
