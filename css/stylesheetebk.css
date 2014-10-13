@@ -57,11 +57,11 @@ a:visited {
 
 .page-header {
   color: white;
-  margin-bottom: 5%;
+  margin-bottom: 2%;
   border-bottom: 2px solid #FFC070;
-  padding-left: 5%;
-  padding-right: 5%;
-  width: 100%;
+  margin-left: 50px;
+  margin-right: 50px;
+  width: 85%;
 }
 
 .navbar-default {
