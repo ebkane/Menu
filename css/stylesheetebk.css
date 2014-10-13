@@ -113,24 +113,14 @@ nav{
 
 ul{ 
     display: inline-block;
-    *display: inline; /* IE7 */
-    *zoom:1;  /* IE7 */ 
     list-style: none;
     width: 100%;
 }
 
 li{ 
     display: inline-block;
-    *display: inline;
-    *zoom:1;
     width: 33%;
-    background: green;
-    color: #fff;
     text-align: center;
-    margin-left: -4px;
 }
 
-li:first-child{
-    margin-left: 0;
-}
 /*end copied*/
