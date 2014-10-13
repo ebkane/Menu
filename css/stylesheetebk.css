@@ -108,18 +108,19 @@ a:visited {
 
 /*copied from JSFiddle*/
 nav{ 
-    white-space: nowrap; 
+    white-space: nowrap;
+    width: 100%;
 }
 
 ul{ 
     display: inline-block;
     list-style: none;
-    width: 40%;
+    width: adaptive;
 }
 
 li{ 
     display: inline-block;
-    width: 40%;
+    width: adaptive;
     text-align: center;
 }
 
