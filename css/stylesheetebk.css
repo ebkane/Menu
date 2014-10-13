@@ -116,7 +116,7 @@ ul{
     display: inline-block;
     list-style: none;
     width: fixed;
-    padding; 10px
+    padding-right; 10px
 }
 
 li{ 
@@ -124,5 +124,5 @@ li{
     display: inline-block;
     width: fixed;
     text-align: center;
-    padding: 10px;
+    padding-right: 10px;
 }
