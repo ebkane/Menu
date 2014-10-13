@@ -114,12 +114,12 @@ nav{
 ul{ 
     display: inline-block;
     list-style: none;
-    width: 10%;
+    width: 40%;
 }
 
 li{ 
     display: inline-block;
-    width: 10%;
+    width: 40%;
     text-align: center;
 }
 
