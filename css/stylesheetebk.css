@@ -106,7 +106,6 @@ a:visited {
   display: inline;
 }
 
-/*copied from JSFiddle*/
 nav{ 
     white-space: nowrap;
     width: 100%;
@@ -115,13 +114,11 @@ nav{
 ul{ 
     display: inline-block;
     list-style: none;
-    width: adaptive;
+    width: fixed;
 }
 
 li{ 
     display: inline-block;
-    width: adaptive;
+    width: fixed;
     text-align: center;
 }
-
-/*end copied*/
