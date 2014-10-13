@@ -98,6 +98,8 @@ a:visited {
   margin-right: 100px;
   margin-left: 50px;
   width: 85%;
+  padding-right: 5%;
+  padding-left: 5%;
 }
 
 .nav navbar-nav navbar-right {
