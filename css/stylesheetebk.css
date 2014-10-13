@@ -112,14 +112,14 @@ nav{
 }
 
 ul{ 
-    display: inline;
+    display: inline-block;
     list-style: none;
     width: 100%;
 }
 
 li{ 
-    display: inline;
-    width: 33%;
+    display: inline-block;
+    width: 100%;
     text-align: center;
 }
 
