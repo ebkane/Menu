@@ -107,5 +107,5 @@ a:visited {
 }
 
 .visible-lg, .visible-md, .visible-sm, .visible-xs, .hidden-xs, .hidden-sm {
-  display: inline;
+  display: inline-block;
 }
