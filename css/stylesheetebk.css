@@ -104,8 +104,8 @@ a:visited {
   margin-left: 20px;
 }
 
-@grid-float-breakpoint {
+@media all and (min-width: 80px) {
   .visible-xs, .visible-sm {
-    min-width: 0px;
+    width: 100%;
   }
 }
