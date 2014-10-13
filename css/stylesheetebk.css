@@ -59,6 +59,8 @@ a:visited {
   color: white;
   margin-bottom: 5%;
   border-bottom: 2px solid #FFC070;
+  padding-left: 5%;
+  padding-right: 5%;
   width: 100%;
 }
 
